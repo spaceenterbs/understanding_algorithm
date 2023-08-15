@@ -24,5 +24,5 @@ def binary_search(list, item):
 my_list = [1, 3, 5, 7, 9]
 print binary_search(my_list, 3) # => 1
 
-# 'None' means nil in Python. We use to indicate that the item wasn't found.
+# 'None' means nil(meaning zero)in Python. We use to indicate that the item wasn't found.
 print binary_search(my_list, -1) # => None
